@@ -57,8 +57,10 @@ Engineer or Applied Scientist.
 ## Outside Research
 - Play guitar. Strictly bedroom level, no audiences harmed.
 - Avid music listener. Always looking for recommendations.
-- Boardgame enthusiast. Absolutely loving Spirit Island.
-- BJJ purple belt & karate black belt. I used to coach kids' karate, which taught me more about explaining things clearly than most of my academic training did.
+- Boardgame enthusiast. Absolutely love Spirit Island.
+- BJJ purple belt & karate black belt. I used to coach kids'
+  karate, which taught me more about explaining things clearly
+  than most of my academic training did.
 
 ## Connect
-[LinkedIn] · [Google Scholar] · [arXiv] · [Email]
+[LinkedIn](https://www.linkedin.com/in/theodor-wulff/) · [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ACrTK9UDoz3M_Oie87aGzD-4j3w95aDnclGGl5OEiWEHdomvCqaH0Khwv-D-6XVmlIBjZcDj4myFwyc-K78i5A&user=hs9y1f0AAAAJ) · [Email](mailto:theowulff@gmx.de)
