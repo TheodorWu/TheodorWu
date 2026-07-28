@@ -16,9 +16,6 @@ Engineer or Applied Scientist.
 - Mechanistic interpretability in VLAs and foundation models
 
 ## Projects & Publications
-
-- [VLA Understanding](https://github.com/TheodorWu/VLAUnderstanding)  
-  Attribution patching to investigate language grounding in VLAs *(ongoing)*
   
 - [GPLA](https://theodorwu.github.io/GPLA/)    
   Preference learning framework 
