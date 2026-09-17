@@ -43,14 +43,6 @@ Engineer or Applied Scientist.
   T. Wulff, R.S. Maharjan, X. Chi, and A. Cangelosi
   ![IJCNN](https://img.shields.io/badge/IJCNN-2025-blue)
 
-## Reading
-### Currently Reading
-- Designing Machine Learning Systems, Chip Huyen
-- The Road, Cormac McCarthy
-### Recently Finished
-- How Tyrants Fall: And How Nations Survive, Marcel Dricus
-- Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist, Liz Pelly
-
 ## Outside Research
 - Play guitar. Strictly bedroom level, no audiences harmed.
 - Avid music listener. Always looking for recommendations.
@@ -58,6 +50,7 @@ Engineer or Applied Scientist.
 - BJJ purple belt & karate black belt. I used to coach kids'
   karate, which taught me more about explaining things clearly
   than most of my academic training did.
+- Reading. Anything goes; I jump genres frequently.
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/theodor-wulff/) · [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ACrTK9UDoz3M_Oie87aGzD-4j3w95aDnclGGl5OEiWEHdomvCqaH0Khwv-D-6XVmlIBjZcDj4myFwyc-K78i5A&user=hs9y1f0AAAAJ) · [Email](mailto:theowulff@gmx.de)
